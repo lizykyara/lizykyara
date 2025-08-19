@@ -3,5 +3,5 @@
 - 📫 Contato: [LinkedIn](https://www.linkedin.com/in/lizy-kyara-macedo/)
 
 ## 🚀 Projetos em Andamento
-- [Plataforma de Currículos com Flask]([#](https://github.com/lizykyara/app_web))  
+- [Plataforma de Currículos com Flask]((https://github.com/lizykyara/app_web))  
 - [Análise de Dados Climáticos](#)
